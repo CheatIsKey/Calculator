@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="plus">더하기</string>
+    <string name="minus">빼기</string>
+    <string name="multiply">곱하기</string>
+    <string name="division">나누기</string>
+    <string name="text">계산 결과 : </string>
+</resources>
